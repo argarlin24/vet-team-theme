@@ -1,0 +1,27 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+.vertical-middle {
+	top: 30% !important; 
+}
+
+.red-bg {
+	background: #f25d49 !important;
+}
+
+.yellow-bg {
+	background: #f5d037; 
+}
+
+.emphasis-title h1 {
+	color: #f25d49;
+}
+
+#side-panel-trigger a {
+	color: black !important; 
+}
